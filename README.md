@@ -15,7 +15,7 @@ This is a backend REST API project built using Java and Spring Boot to manage ta
 ---
 
 ## ⚙️ Features
-- Create, update, delete tasks
+- Create, update and delete tasks
 - DTO pattern implementation
 - Layered architecture (Controller-Service-Repository)
 
@@ -41,7 +41,20 @@ APIs tested using Postman.
 
 ## 📸 Screenshots
 
-(Add Postman screenshots here)
+### Create Task (POST)
+![Create Task](create-task.png)
+
+### Get All Tasks (GET)
+![Get All Tasks](get-tasks.png)
+
+### Get Task by ID (GET)
+![Get Task By ID](get-task-by-ID.png)
+
+### Update Task (PUT)
+![Update Task](update-task.png)
+
+### Delete Task (DELETE)
+![Delete Task](delete-task.png)
 
 ---
 
